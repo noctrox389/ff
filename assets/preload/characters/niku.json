@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				196,
+				482
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nikusa_Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				199,
+				484
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nikusa_Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				522
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NikusaUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				198,
+				499
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nikusa_Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				195,
+				501
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nikusa_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nikusa_Sprites",
+	"position": [
+		-340,
+		180
+	],
+	"healthicon": "niku",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

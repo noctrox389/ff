@@ -1,0 +1,32 @@
+{
+	"storyName": "un cover betadciu de la session #53 de Shakira con bzrp!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"SHAKIRA-BZRP-Music-Sessions-53",
+			"icon-mom",
+			[
+				226,
+				20,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"mom",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

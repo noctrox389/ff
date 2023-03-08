@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				85,
+				-47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"name": "BF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				83,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				164,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				193,
+				137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				51,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_D_SIDES",
+	"position": [
+		-320,
+		360
+	],
+	"healthicon": "bf-dside",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		125,
+		142
+	],
+	"camera_position": [
+		5,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1.25
+}

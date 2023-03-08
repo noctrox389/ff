@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle-normal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				17
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up-normal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-22
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down-normal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				8
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left-normal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-2
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right-normal"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-15
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "right-ALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-139
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "down-ALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				-178
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "left-ALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				34
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "up-ALT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-15
+			],
+			"anim": "cry",
+			"fps": 24,
+			"name": "crying",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-2
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle-alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Suicide Mouse Soft",
+	"position": [
+		-400,
+		130
+	],
+	"healthicon": "icon-softmickey",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		53,
+		70
+	],
+	"camera_position": [
+		-150,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

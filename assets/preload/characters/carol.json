@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				19
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Carol_Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-27
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Carol_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				37
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Carol_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				-25
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Carol_right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Carol_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Carol",
+	"position": [
+		-420,
+		130
+	],
+	"healthicon": "carol",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		103,
+		155
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

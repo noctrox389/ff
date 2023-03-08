@@ -1,0 +1,333 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kit left"
+		},
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit left"
+		},
+		{
+			"offsets": [
+				14,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kit down"
+		},
+		{
+			"offsets": [
+				14,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit down"
+		},
+		{
+			"offsets": [
+				0,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kit up"
+		},
+		{
+			"offsets": [
+				0,
+				19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit up"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kit right"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "kit alt idle"
+		},
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "kit alt left"
+		},
+		{
+			"offsets": [
+				14,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "kit alt down"
+		},
+		{
+			"offsets": [
+				0,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "kit alt up"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "kit alt right"
+		},
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit alt left"
+		},
+		{
+			"offsets": [
+				14,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit alt down"
+		},
+		{
+			"offsets": [
+				0,
+				19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit alt up"
+		},
+		{
+			"offsets": [
+				0,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt-hold",
+			"indices": [
+				0,
+				2
+			],
+			"name": "kit alt right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "dia1",
+			"fps": 24,
+			"name": "kit dia1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-11
+			],
+			"anim": "dia2",
+			"fps": 24,
+			"name": "kit dia2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-8
+			],
+			"anim": "dia3",
+			"fps": 24,
+			"name": "kit dia3",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "chachacha",
+			"indices": [],
+			"name": "kit chachacha"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-8
+			],
+			"anim": "singRIGHT-love",
+			"fps": 24,
+			"name": "kit love right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-30
+			],
+			"anim": "singLEFT-love",
+			"fps": 24,
+			"name": "kit love left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-30
+			],
+			"anim": "singDOWN-love",
+			"fps": 24,
+			"name": "kit love down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP-love",
+			"fps": 24,
+			"name": "kit love up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kit chachacha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skykit",
+	"position": [
+		700,
+		130
+	],
+	"healthicon": "skykit",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
